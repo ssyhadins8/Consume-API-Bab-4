@@ -1,3 +1,4 @@
+DESKRIPSI
 Project ini adalah aplikasi web berbasis Laravel yang dibuat untuk mengonsumsi REST API Mahasiswa yang telah dibuat sebelumnya (Bab 3). Aplikasi ini menerapkan konsep Consume API melalui Frontend (View) menggunakan JavaScript Fetch API, serta menampilkan data secara dinamis menggunakan Blade Template Engine.
 Project terdiri dari dua bagian:
 
